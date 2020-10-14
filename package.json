@@ -7,13 +7,7 @@
     "benchmark.js",
     "LICENSE",
     "README.md",
-    "arangodb/",
-    "arangodb_mmfiles/",
-    "mongodb/",
-    "neo4j/",
-    "orientdb/",
-    "postgres_jsonb/",
-    "postgres_tabular/"
+    "arangodb/"
   ],
   "scripts": {
     "lint": "eslint benchmark.js arangodb mongodb orientdb neo4j",
